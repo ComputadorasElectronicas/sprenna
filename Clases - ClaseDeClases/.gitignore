@@ -1,5 +1,9 @@
-ArchivosCompilados/
+#Configuracion del compilador
+.vscode/*
+
+#Directorio de salida
 ArchivosCompilados/*
+
+# Archivos temporales de Proteus
 *.pdsbak
 *.workspace
-.vscode/*
