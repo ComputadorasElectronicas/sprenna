@@ -1,5 +1,5 @@
 #Configuracion del compilador
-.vscode/*
+#.vscode/*
 
 #Directorio de salida
 ArchivosCompilados/*
