@@ -1,0 +1,5 @@
+ArchivosCompilados/
+ArchivosCompilados/*
+*.pdsbak
+*.workspace
+.vscode/*
