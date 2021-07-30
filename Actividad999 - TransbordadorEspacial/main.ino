@@ -32,4 +32,5 @@ void loop()
 {
 
   Serial.println("Volando al espacio...");
+  delay(1000);
 }
